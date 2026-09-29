@@ -75,7 +75,7 @@ Both models achieve comparable training loss — the HNN's advantage isn't from 
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/hamiltonian-nn.git
+git clone https://github.com/strangecradles/hamiltonian-nn.git
 cd hamiltonian-nn
 pip install -r requirements.txt
 ```
